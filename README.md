@@ -1,5 +1,5 @@
-- Hi, I’m Abhinendra Pratap Singh
-- I’m interested in learning the most I can.
+- Hi, I’m Krishna Tiwari.
+- I'm experienced professional in Digital Marketing.
 - I’m currently learning web development.
-- I’m looking to collaborate on projects from html,css,js and React.js
+- I’m looking to collaborate on projects from html,css,js
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-tiwari-246b2a2a7/)
