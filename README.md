@@ -3,7 +3,7 @@
 - I’m currently learning web development.
 - I’m looking to collaborate on projects from html,css,js
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriishna/)
-### Accomplishment
+### Accomplishments
 
 
 <a href="https://api.badgr.io/public/assertions/IzVedXFpSY-mwacZUsXctw?identity__email=tiwarisaritatiwari80%40gmail.com">
