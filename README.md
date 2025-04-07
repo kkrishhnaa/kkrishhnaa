@@ -6,6 +6,6 @@
 ### Accomplishments
 
 
-<a href="https://api.badgr.io/public/assertions/IzVedXFpSY-mwacZUsXctw>
+<a href="https://api.badgr.io/public/assertions/IzVedXFpSY-mwacZUsXctw">
   <img src="https://github.com/kkrishhnaa/Krishna-with-KRSNA/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-13.png?raw=true" width="100" height="100" />
 </a>
