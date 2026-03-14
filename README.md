@@ -1,7 +1,9 @@
-- Hi, I’m Krishna Tiwari.
-- I'm experienced professional in Digital Marketing.
-- I’m currently learning web development.
-- I’m looking to collaborate on projects from html,css,js
+- Hi, I'm Krishna Tiwari 👋  
+- BCA Student | Aspiring Data Scientist  
+- Passionate about Data Analysis, AI, and Machine Learning  
+- I enjoy working with data, building visualizations, and creating data-driven applications  
+- Currently learning and building projects using Python, Power BI, React, and FastAPI  
+- Looking to collaborate on projects related to Data Science, Analytics, and Web Applications
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriishna/)
 ### Accomplishments
 
