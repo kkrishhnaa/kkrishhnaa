@@ -1,6 +1,6 @@
-Hi there, I'm Krishna Tiwari 👋
+# Hi there, I'm Krishna Tiwari 👋
 
-📊 Data Analyst | Python • SQL • Machine Learning
+## 📊 Data Analyst | Python • SQL • Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -10,13 +10,13 @@ Hi there, I'm Krishna Tiwari 👋
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 🎓 BCA Graduate from the University of Lucknow.
 
 📈 Passionate about Data Analytics, Machine Learning, and Business Intelligence.
 
-I enjoy transforming raw data into meaningful insights through:
+## I enjoy transforming raw data into meaningful insights through:
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -27,7 +27,7 @@ I enjoy transforming raw data into meaningful insights through:
 
 ---
 
-🔍 Areas of Interest
+## 🔍 Areas of Interest
 
 - Data Analytics
 - Business Intelligence
@@ -38,7 +38,7 @@ I enjoy transforming raw data into meaningful insights through:
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Programming & Databases
 
@@ -46,7 +46,7 @@ Programming & Databases
 - SQL
 - MySQL
 
-Data Analysis
+## Data Analysis
 
 - Pandas
 - NumPy
@@ -54,26 +54,26 @@ Data Analysis
 - Data Cleaning
 - Exploratory Data Analysis
 
-Data Visualization
+## Data Visualization
 
 - Matplotlib
 - Seaborn
 - Power BI
 
-Machine Learning
+## Machine Learning
 
 - Scikit-Learn
 - XGBoost
 - Classification Models
 - Predictive Analytics
 
-Web Development
+## Web Development
 
 - React
 - FastAPI
 - Streamlit
 
-Tools
+## Tools
 
 - Git
 - GitHub
@@ -83,42 +83,40 @@ Tools
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-📱 ScreenSense: Kids' Screen-Time Analysis & Recommendation System
+### 📱 ScreenSense: Kids' Screen-Time Analysis & Recommendation System
 
-Built during the Infosys Springboard Data Analytics Internship.
+📌 Built during the Infosys Springboard Data Analytics Internship.
 
-Highlights
+**Highlights**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Interactive Dashboard
+- Recommendation Engine
+- React Frontend
+- FastAPI Backend
 
-✅ Data Cleaning & Preprocessing
-✅ Exploratory Data Analysis
-✅ Interactive Dashboard
-✅ React Frontend
-✅ FastAPI Backend
-✅ Recommendation System
-
-Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, React, FastAPI
-
----
-
-📊 Customer Churn Prediction System
-
-End-to-end Machine Learning project for predicting telecom customer churn.
-
-Highlights
-
-✅ Customer Churn Prediction
-✅ Business Recommendations
-✅ Interactive Streamlit Application
-✅ Model Comparison
-✅ Real-Time Predictions
-
-Tech Stack: Python, Scikit-Learn, XGBoost, Streamlit
+**Tech:** Python • Pandas • Power BI • React • FastAPI
 
 ---
 
-🏆 Achievements
+### 📊 Customer Churn Prediction System
+
+📌 End-to-end Machine Learning project for telecom customer churn prediction.
+
+**Highlights**
+- Customer Churn Prediction
+- Business Recommendations
+- Streamlit Web Application
+- Model Comparison
+- Real-Time Predictions
+
+**Tech:** Python • Scikit-Learn • XGBoost • Streamlit
+
+---
+
+## 🏆 Achievements
 
 🏅 Data Analytics Internship – Infosys Springboard
 
@@ -132,7 +130,7 @@ Tech Stack: Python, Scikit-Learn, XGBoost, Streamlit
 
 ---
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced Machine Learning
 - Customer Analytics
@@ -142,12 +140,12 @@ Tech Stack: Python, Scikit-Learn, XGBoost, Streamlit
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn:
+## 💼 LinkedIn:
 https://www.linkedin.com/in/kriishna/
 
-💻 GitHub:
+## 💻 GitHub:
 https://github.com/kkrishhnaa
 
 ---
