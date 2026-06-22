@@ -1,53 +1,80 @@
-# Hi, I'm Krishna Tiwari 👋
+Hi there, I'm Krishna Tiwari 👋
 
-### Data Analyst | Python • SQL • Power BI • Data Visualization
+📊 Data Analyst | Python • SQL • Machine Learning
 
-I recently completed my BCA from the University of Lucknow and am actively building projects in Data Analytics, Business Intelligence, and Machine Learning.
-
-I enjoy transforming raw data into meaningful insights through data cleaning, exploratory data analysis, dashboard development, and predictive analytics.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-## 🔍 Areas of Interest
+🚀 About Me
+
+🎓 BCA Graduate from the University of Lucknow.
+
+📈 Passionate about Data Analytics, Machine Learning, and Business Intelligence.
+
+I enjoy transforming raw data into meaningful insights through:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Predictive Analytics
+- Machine Learning
+- Business Problem Solving
+
+---
+
+🔍 Areas of Interest
 
 - Data Analytics
 - Business Intelligence
-- Data Visualization
 - Customer Analytics
 - Machine Learning
 - Predictive Analytics
+- Data Visualization
 
 ---
 
-## 🛠️ Tech Stack
+🛠 Tech Stack
 
-### Programming & Databases
+Programming & Databases
+
 - Python
 - SQL
 - MySQL
 
-### Data Analysis
+Data Analysis
+
 - Pandas
 - NumPy
 - Statistics
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 
-### Data Visualization & BI
-- Power BI
+Data Visualization
+
 - Matplotlib
 - Seaborn
+- Power BI
 
-### Machine Learning
+Machine Learning
+
 - Scikit-Learn
+- XGBoost
 - Classification Models
-- Customer Churn Prediction
+- Predictive Analytics
 
-### Web Development
+Web Development
+
 - React
 - FastAPI
+- Streamlit
 
-### Tools
+Tools
+
 - Git
 - GitHub
 - Jupyter Notebook
@@ -56,51 +83,73 @@ I enjoy transforming raw data into meaningful insights through data cleaning, ex
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### ScreenSense: Kids' Screen-Time Analysis & Recommendation System
+📱 ScreenSense: Kids' Screen-Time Analysis & Recommendation System
+
 Built during the Infosys Springboard Data Analytics Internship.
 
-**Key Highlights**
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Interactive Power BI Dashboard
-- React Frontend
-- FastAPI Backend
-- Recommendation Engine
+Highlights
 
-**Tech Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, React, FastAPI
+✅ Data Cleaning & Preprocessing
+✅ Exploratory Data Analysis
+✅ Interactive Dashboard
+✅ React Frontend
+✅ FastAPI Backend
+✅ Recommendation System
 
----
-
-### Customer Churn Prediction & Business Insight System
-*Currently In Progress*
-
-**Objectives**
-- Identify customers likely to churn
-- Build predictive ML models
-- Create business-focused dashboards
-- Generate actionable retention insights
-
-**Tech Used:** Python, SQL, Scikit-Learn, Power BI
+Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, React, FastAPI
 
 ---
 
-## 🏆 Achievements
+📊 Customer Churn Prediction System
 
-- Completed Data Analytics Internship at Infosys Springboard
-- Built an end-to-end analytics project (ScreenSense)
-- Google Cloud Data Analytics Certificate
-- Deloitte Data Analytics Virtual Job Simulation
-- IBM Artificial Intelligence Fundamentals
-- Postman API Fundamentals Student Expert
+End-to-end Machine Learning project for predicting telecom customer churn.
+
+Highlights
+
+✅ Customer Churn Prediction
+✅ Business Recommendations
+✅ Interactive Streamlit Application
+✅ Model Comparison
+✅ Real-Time Predictions
+
+Tech Stack: Python, Scikit-Learn, XGBoost, Streamlit
+
+---
+
+🏆 Achievements
+
+🏅 Data Analytics Internship – Infosys Springboard
+
+🏅 Google Cloud Data Analytics Certificate
+
+🏅 Deloitte Data Analytics Virtual Job Simulation
+
+🏅 IBM Artificial Intelligence Fundamentals
+
+🏅 Postman API Fundamentals Student Expert
 
 ---
 
-## 📫 Connect With Me
+📚 Currently Learning
 
-- LinkedIn: https://www.linkedin.com/in/kriishna/
-- GitHub: https://github.com/kkrishhnaa
+- Advanced Machine Learning
+- Customer Analytics
+- Predictive Modeling
+- Business Analytics
+- Model Evaluation Techniques
 
 ---
+
+📫 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/kriishna/
+
+💻 GitHub:
+https://github.com/kkrishhnaa
+
+---
+
 ⭐ Always open to learning, collaborating, and building data-driven solutions.
