@@ -14,13 +14,13 @@
 
 ## 🙋 About Me
 
-- 🎓 Final-year BCA student at the **University of Lucknow** (Graduating 2026)
+- 📊 Aspiring Data Analyst building end-to-end analytics and machine learning solutions
 - 💼 Data Analytics Intern @ **Infosys Springboard** (Oct–Dec 2025)
 - 🔭 Built and deployed a **Customer Churn Prediction System** — live on Streamlit Cloud
 - 🛠 Experienced in end-to-end analytics: data cleaning → EDA → ML modeling → deployment
 - 🌱 Currently deepening expertise in Advanced ML, Business Analytics, and Predictive Modeling
 - 📫 Reach me at **krsnatiwari22@gmail.com**
-- 🔗 Portfolio: [customer-churn-prediction-krsna.streamlit.app](https://customer-churn-prediction-krsna.streamlit.app/)
+- 🔗 Live App: [customer-churn-prediction-krsna.streamlit.app](https://customer-churn-prediction-krsna.streamlit.app/)
 
 ---
 
